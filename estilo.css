@@ -31,15 +31,13 @@ h4{
     margin: 30px;
     padding: 10px;
     background-color: #D9D9D9;
-    width: 248.25px;
     float: left;
 }
 
 img{
    
-    display: block;
     height: 205px;
-    width: 248.25px;
+    width: 248.25px;  
 }
 
 .texto{
@@ -48,8 +46,6 @@ img{
     margin-bottom: 0px;
     padding: 30px;
     background-color: white;
- 
-   
 }
 
 
